@@ -7,7 +7,10 @@
 
 ##### The Game is checked on running on Ubuntu 18.04LTS
 
-**Please Install the necessary dependencies before running the program: **
+Please Install the necessary dependencies before running the program:
 
 1. Python3 
 2. Pygame : To install *pygame* just type `pip3 install pygame` in command line.
+
+###### To run the game:
+* `git clone 
